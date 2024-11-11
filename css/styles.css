@@ -23,6 +23,8 @@ body{
 }
 .header-adress-link{
     color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .header-adress-link:hover{
 color: #404bbf;
