@@ -5,7 +5,7 @@ body{
     background-color: #FFFFFF;
     
 }
-.header-item{
+.header-link{
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 500;
@@ -21,8 +21,14 @@ body{
 .header-adress{
     font-style: normal;
 }
-.header-adress-item{
+.header-adress-link{
     color: #434455;
+}
+.header-adress-link:hover{
+color: #404bbf;
+}
+.header-adress-link:focus{
+color: #404bbf;
 }
 .logo{
     font-weight: 700;
