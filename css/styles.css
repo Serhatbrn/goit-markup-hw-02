@@ -12,14 +12,17 @@ body{
     font-size: 16px;
     color: #2e2f42;
 }
-.header-list:hover{
+.header-link:hover{
     color: #404bbf;
 }
-.header-list:focus {
+.header-link:focus {
     color: #404bbf;
 }
 .header-adress{
     font-style: normal;
+}
+.header-adress-item{
+    color: #434455;
 }
 .logo{
     font-weight: 700;
@@ -34,7 +37,7 @@ body{
     color: #2e2f42;
 }
 .section-one{
-    background-color: #2e2f42;
+    background-color: #2e2f42
 }
 .sone-title{
     font-size: 56px;
