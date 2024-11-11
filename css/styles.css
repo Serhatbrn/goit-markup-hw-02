@@ -12,10 +12,10 @@ body{
     font-size: 16px;
     color: #2e2f42;
 }
-.header-item:hover{
+.header-list:hover{
     color: #404bbf;
 }
-.header-item:focus {
+.header-list:focus {
     color: #404bbf;
 }
 .header-adress{
