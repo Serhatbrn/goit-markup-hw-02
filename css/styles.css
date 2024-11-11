@@ -8,6 +8,7 @@ body{
 .header-item{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 500;
     color: #2e2f42;
 }
 .header-item:hover{
