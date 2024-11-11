@@ -9,9 +9,13 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 500;
+    font-size: 16px;
     color: #2e2f42;
 }
 .header-item:hover{
+    color: #404bbf;
+}
+.header-item:focus {
     color: #404bbf;
 }
 .header-adress{
