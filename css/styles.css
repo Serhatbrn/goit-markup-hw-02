@@ -5,7 +5,17 @@ body{
     background-color: #FFFFFF;
     
 }
-
+.header-item{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.header-item:hover{
+    color: #404bbf;
+}
+.header-adress{
+    font-style: normal;
+}
 .logo{
     font-weight: 700;
     font-size: 18px;
@@ -13,7 +23,7 @@ body{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
 }
 .studio{
     color: #2e2f42;
