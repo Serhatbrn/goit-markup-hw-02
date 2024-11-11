@@ -1,0 +1,23 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    
+}
+
+header{
+    width: 1440px; height: 600px; top: 72px;
+    background-color: #2e2f42;
+}
+h1 {
+    color: rgb(209, 17, 17);
+    text-align: center;
+}
+
+#Our-Team{
+    background-color: blue;
+}
+p{
+    font-size: 20px;
+}
