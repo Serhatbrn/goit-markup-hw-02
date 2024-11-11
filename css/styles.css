@@ -6,18 +6,27 @@ body{
     
 }
 
-header{
-    width: 1440px; height: 600px; top: 72px;
-    background-color: #2e2f42;
+.logo{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-family: "Raleway";
 }
-h1 {
-    color: rgb(209, 17, 17);
-    text-align: center;
+.studio{
+    color: #2e2f42;
 }
 
-#Our-Team{
-    background-color: blue;
+footer{
+    background-color: #2e2f42;
 }
-p{
-    font-size: 20px;
+.footerstudio{
+    color: #F4F4FD;
+}
+.f-paragraf{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
